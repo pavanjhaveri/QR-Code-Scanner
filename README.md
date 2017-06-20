@@ -1,2 +1,3 @@
 # QR-Code-Scanner
-An Android based app and a MATLAB based GUI that would decode QR Codes 
+
+Developed an Android based app and a MATLAB based GUI that would recognize all QR Codes till version 3 and decrypt the information from it.   
